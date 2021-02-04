@@ -2,7 +2,7 @@
 
 - Team Name: Binary Pods
 - Team Members: Ankit Kumar Jha, Sanket Agarwal, Ishan Bansal
-- We are working on theme: Online Education and Doubt Solving
+- We are working on theme: Online Education and Doubt Solving (Skilling people to earn their livelihood online during/post COVID)
 - We plan to build a website 
 - The target audience is school students
 - Often school students have doubts regarding certain topics that they are taught. Through our website, the students can ask their doubts to proffesonal educators and teachers.
