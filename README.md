@@ -38,7 +38,7 @@ Bootstrap,
 ![Screenshot (20)](https://user-images.githubusercontent.com/76553358/106379205-5710d380-63d0-11eb-80aa-76051ecd8a8e.png)
 
 # Our Team Members
-![Screenshot (21)](https://user-images.githubusercontent.com/76553358/106379206-58da9700-63d0-11eb-9b1c-162c517f4948.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/76553358/107028303-611d4280-67d3-11eb-84cd-e5a59f31c2ec.png)
 
 # People in that class(i.e. Your Teacher and Classmates)
 ![Screenshot (22)](https://user-images.githubusercontent.com/76553358/106379208-5aa45a80-63d0-11eb-84e2-bd02ae024af4.png)
